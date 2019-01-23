@@ -1,5 +1,5 @@
-import KIA
-from KIA import *
+import TERX
+from TERX import *
 from akad.ttypes import *
 from multiprocessing import Pool, Process
 from time import sleep
@@ -73,7 +73,7 @@ lineSettings = sw.getSettings()
 Zmid = sw.getProfile().mid
 responsename = sw.getProfile().displayName
 
-print("---LOGIN SUCCES---\nBY: SELFBOT-BY:MAX")
+print("---LOGIN SUCCES---\nBY: SELFBOT-BY:SONTOLOYO")
 
 poll = LinePoll(cl)
 call = cl
